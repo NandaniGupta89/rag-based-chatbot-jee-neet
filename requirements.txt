@@ -1,5 +1,4 @@
 # Ensure compatibility with SQLite >= 3.35.0
-sqlite3
 chroma-hnswlib==0.7.6
 chromadb==0.5.5
 google-ai-generativelanguage==0.6.6
