@@ -1,4 +1,5 @@
-
+!pip install sqlite3
+import sqlite
 from sqlalchemy import create_engine, Column, String, MetaData, Table
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import inspect
